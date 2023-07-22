@@ -1,7 +1,7 @@
 # PS Vita - Stream to PC via Wifi (Beta)
 Resolution is currently 480x272, Low Quality is expected for beta version
 
-## [Setup Tutorial](https://youtube.com)
+## [Setup Tutorial](https://www.youtube.com/watch?v=TF5XHjNtOG8)
 
 ### Vita WiFi is Terrible
 

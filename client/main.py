@@ -177,7 +177,7 @@ if __name__ == '__main__':
         global FPS
 
         while True:
-            print(FPS)
+            print('FPS: ' + str(FPS))
             FPS = 0
             sleep(1)
     Thread(target=pfps).start()
