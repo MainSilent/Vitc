@@ -35,16 +35,6 @@ Overclocking is recommended for better FPS
 - Config app for optional settings like turning display off
 - Add VP9 format to get +30 FPS
 
-## Donation
-
-Your donation will keep me motivated to continue this project
-
-BTC: 19y3sTvRQw2UvmAKgy4zZxLa7HdPQZE41E
-
-ETH: 0x3DE9e0bB268204f712c770B14f5Bd3959dF6083C
-
-XMR: 44XW1Jye8o39tTtgixNoLXgokHvPZJn6T4TAzda34poGFpWF6Bmkc9xZNwAJzZsLmWioNdtAFuRgPQ4pj4hvUkncHrbVNQ1
-
 ## Credit
 
 [xerpi/vita-udcd-uvc](https://github.com/xerpi/vita-udcd-uvc)
