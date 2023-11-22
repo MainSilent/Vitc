@@ -1,3 +1,5 @@
+🔴 Project is no longer active
+
 # PS Vita - Stream to PC via Wifi (Beta)
 Resolution is currently 480x272, Low Quality is expected for beta version
 
